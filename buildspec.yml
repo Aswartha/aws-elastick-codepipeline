@@ -13,4 +13,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/aws-elastikbeanstack-codepipeline.jar
+    - target/aws-elastikbeanstack-codepipelineapp.jar

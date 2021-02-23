@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aws</groupId>
-	<artifactId>aws-elasticbeanstack-upload</artifactId>
+	<artifactId>aws-elasticbeanstack-codepipeline</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Boot_Elasticbeanstack_aws_upload-Codepipeline</name>
 	<description>Demo project for Spring Boot</description>
@@ -37,7 +37,7 @@
 			</plugin>
 		</plugins>
 		
-		<finalName>aws-elastikbeanstack-codepipeline</finalName>
+		<finalName>aws-elastikbeanstack-codepipelineapp</finalName>
 	</build>
 
 </project>
