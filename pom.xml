@@ -37,7 +37,7 @@
 			</plugin>
 		</plugins>
 		
-		<finalName>aws-elastikbeanstack-codepipelineapp</finalName>
+		<finalName>aws-elastikbeanstack-codepipelineapp-1.0</finalName>
 	</build>
 
 </project>

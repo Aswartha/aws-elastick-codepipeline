@@ -13,4 +13,5 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/aws-elastikbeanstack-codepipelineapp.jar
+    - target/aws-elastikbeanstack-codepipelineapp-1.0.jar
+  discard-paths: yes  
