@@ -13,7 +13,7 @@ public class BootElasticbeanstackAwsUploadCodepipelineApplication {
 	
 	@GetMapping("/status")
 	public String getststus() {
-		return "Welcome to Elastick bean stack and code pipeline";
+		return "Welcome to Elastick bean stack and code pipeline sample";
 	}
 	
 	
